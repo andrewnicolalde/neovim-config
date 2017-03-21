@@ -2,9 +2,6 @@
 call plug#begin('~/.local/share/nvim/plugged')
 
 Plug 'dhruvasagar/vim-table-mode'
-Plug 'vim-airline/vim-airline'
-Plug 'edkolev/tmuxline.vim'
-Plug 'vim-airline/vim-airline-themes'
 
 " Initialise plugin system
 call plug#end()
